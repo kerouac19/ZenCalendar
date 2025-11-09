@@ -1,7 +1,7 @@
 # ZenCalendar 禅日历
 使用 CSS 样式设计，制作丰富的主题日历。
 
-https://ciaoca.github.io/ZenCalendar/
+https://kerouac19.github.io/ZenCalendar/
 
 
 
@@ -14,10 +14,10 @@ https://ciaoca.github.io/ZenCalendar/
 
 
 ## 使用说明
-可以直接访问 [GitHub Pages](https://ciaoca.github.io/ZenCalendar/) 使用；也可以 [下载](https://github.com/ciaoca/ZenCalendar/archive/refs/heads/main.zip) 后自行部署到服务器环境。
+可以直接访问 [GitHub Pages](https://kerouac19.github.io/ZenCalendar/) 使用；也可以 [下载](https://github.com/kerouac19/ZenCalendar/archive/refs/heads/main.zip) 后自行部署到服务器环境。
 
 默认主题适配移动端、PC 端，支持 PWA 安装到桌面。
 
 
 
-如果你想修改或自定义主题，可参考 [Wiki: 创建新的日历主题](https://github.com/ciaoca/ZenCalendar/wiki/%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84%E6%97%A5%E5%8E%86%E4%B8%BB%E9%A2%98) 
+如果你想修改或自定义主题，可参考 [Wiki: 创建新的日历主题](https://github.com/kerouac19/ZenCalendar/wiki/%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84%E6%97%A5%E5%8E%86%E4%B8%BB%E9%A2%98) 
