@@ -1,4 +1,4 @@
-const cacheVersion = '20261104';
+const cacheVersion = '20261105';
 const cacheList = [
   './',
   './index.html',
